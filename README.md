@@ -10,8 +10,8 @@ Se utilizaron los microdatos abiertos de la evaluación **APRENDER 2024**, proce
 *   **Análisis:** Cálculo de promedios de puntaje en Lengua y Matemática cruzando variables de nivel educativo materno, sector (público/privado) y ámbito (rural/urbano).
 
 ## 📈 Hallazgos Clave
-*   Se identificaron brechas significativas correlacionadas directamente con el nivel educativo materno.
-*   El procesamiento técnico permitió normalizar los datos para obtener una visión clara de las tendencias nacionales.
+*   Se identificaron brechas significativas asociadas nivel educativo materno.
+*   El procesamiento técnico permitió estructurar los datos para obtener una visión clara de las tendencias nacionales.
 
 ---
 *Este es mi primer proyecto integral de análisis de datos utilizando SQL.*
